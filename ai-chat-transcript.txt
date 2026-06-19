@@ -1,0 +1,45 @@
+Project: InterviewPrep AI Agent
+
+User:
+Build an AI-powered interview preparation assistant.
+
+AI:
+Suggested architecture using React, Node.js, Express, Groq API, and an Orchestrator Agent.
+
+User:
+Create Resume Analyzer feature.
+
+AI:
+Implemented PDF parsing, ATS analysis, and resume review functionality.
+
+User:
+Generate learning roadmap feature.
+
+AI:
+Added roadmap generation endpoint and frontend integration.
+
+User:
+Create Career Chat Assistant.
+
+AI:
+Implemented chat endpoint using Groq AI.
+
+User:
+Deploy backend on Render.
+
+AI:
+Configured environment variables and deployment settings.
+
+User:
+Deploy frontend on Vercel.
+
+AI:
+Configured VITE_API_URL and production deployment.
+
+User:
+Create README documentation.
+
+AI:
+Generated project documentation and setup instructions.
+
+Project completed successfully.
