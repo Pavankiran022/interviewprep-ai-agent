@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # InterviewPrep AI Agent
-=======
-InterviewPrep AI Agent
->>>>>>> 6e0e9c0 (changes)
 
 An AI-powered career preparation platform that helps aspiring software engineers improve their job readiness.
 
@@ -45,8 +41,4 @@ https://interviewprep-ai-agent.onrender.com
 
 ## Author
 
-<<<<<<< HEAD
 Developed by Pavankiransai
-=======
-Developed by Pavankiransai
->>>>>>> 6e0e9c0 (changes)
